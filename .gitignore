@@ -1,0 +1,16 @@
+# MATLAB generated files
+*.asv
+*.m~
+*.slxc
+*.mex*
+*.mat
+!eval.mat  # Optional: Keep this if you want to include your evaluation data 
+
+# Tool-specific folders
+bin/
+obj/
+DerivedData/
+
+# Desktop specific files
+.DS_Store
+Thumbs.db
